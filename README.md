@@ -5,6 +5,7 @@
 1. 자연어 기반의 SQL 생성을 통해 **RDBMS 데이터 활용**.
 2. **PDF 임베딩** 및 **벡터 유사도 검색**을 통해 신뢰성 있는 투자가이드 제공.
 3. LLM의 할루시네이션 문제를 줄이고 실질적인 비즈니스 데이터를 활용한 정확한 조언 제공.
+![image](https://github.com/user-attachments/assets/75e26a9f-75da-4601-9a65-9e1899bf893f)
 
 ---
 
@@ -40,6 +41,7 @@
 3. **DB 서버**:
    - 고객 정보와 벡터 유사도 검색을 통해 사용자 질문에 맞는 데이터 제공.
 4. **결과 출력**: Chatbot 인터페이스를 통해 사용자 맞춤형 답변 제공.
+![image](https://github.com/user-attachments/assets/d55942aa-0e35-4ee5-9a13-1fa32da4a6fa)
 
 ---
 
