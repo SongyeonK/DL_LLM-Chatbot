@@ -1,4 +1,4 @@
-# Assistant Chatbot for Investment Guide
+# Investment Guide Chatbot
 
 ## 프로젝트 개요
 이 프로젝트는 **투자가이드**와 **LLM(Large Language Model)**을 활용한 **맞춤형 어시스턴트 챗봇** 개발에 중점을 두고 있으며, 다음과 같은 목표를 달성하고자 함:
